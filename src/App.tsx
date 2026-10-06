@@ -66,8 +66,8 @@ function App() {
       <footer className="mx-auto flex max-w-6xl flex-col gap-5 px-6 py-8 text-sm text-ink/50 sm:flex-row sm:items-center sm:justify-between lg:px-8">
         <p>© {new Date().getFullYear()} Pragalbha Acharya</p>
         <div className="flex gap-4">
-          <a href="#" aria-label="GitHub" className="transition hover:text-ink"><Github size={18} /></a>
-          <a href="#" aria-label="LinkedIn" className="transition hover:text-ink"><Linkedin size={18} /></a>
+          <a href="https://github.com/ludeathefer" aria-label="GitHub" className="transition hover:text-ink"><Github size={18} /></a>
+          <a href="https://www.linkedin.com/in/pragalbha-acharya-a371b4299" aria-label="LinkedIn" className="transition hover:text-ink"><Linkedin size={18} /></a>
         </div>
       </footer>
     </div>
